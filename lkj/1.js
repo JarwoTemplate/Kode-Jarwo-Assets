@@ -1,1 +1,1 @@
-var knil = ["jarwo-lirge.blogspot.com","aaa","bbb"];
+var knil = ["jarwo-liarge.blogspot.com","aaa","bbb"];
