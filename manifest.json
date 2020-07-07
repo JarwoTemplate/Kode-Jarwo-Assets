@@ -1,0 +1,38 @@
+{
+  "name": "Jarwo Lirge",
+  "short_name": "Jarwo Lirge",
+  "start_url": "https://jarwo-lirge.blogspot.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "Jarwo Lirge Blogger Template Created by Kode Jarwo",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-y1qoM4mjJXY/Xjv-y_xghfI/AAAAAAAAAM8/dRCvgCZIVg80a9f_Tw4n4UX5Ot-96mEawCPcBGAYYCw/s48/KJ%2BTemplate%2BLogo%2BOctagon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-y1qoM4mjJXY/Xjv-y_xghfI/AAAAAAAAAM8/dRCvgCZIVg80a9f_Tw4n4UX5Ot-96mEawCPcBGAYYCw/s72/KJ%2BTemplate%2BLogo%2BOctagon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-y1qoM4mjJXY/Xjv-y_xghfI/AAAAAAAAAM8/dRCvgCZIVg80a9f_Tw4n4UX5Ot-96mEawCPcBGAYYCw/s96/KJ%2BTemplate%2BLogo%2BOctagon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-y1qoM4mjJXY/Xjv-y_xghfI/AAAAAAAAAM8/dRCvgCZIVg80a9f_Tw4n4UX5Ot-96mEawCPcBGAYYCw/s144/KJ%2BTemplate%2BLogo%2BOctagon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-y1qoM4mjJXY/Xjv-y_xghfI/AAAAAAAAAM8/dRCvgCZIVg80a9f_Tw4n4UX5Ot-96mEawCPcBGAYYCw/s168/KJ%2BTemplate%2BLogo%2BOctagon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-y1qoM4mjJXY/Xjv-y_xghfI/AAAAAAAAAM8/dRCvgCZIVg80a9f_Tw4n4UX5Ot-96mEawCPcBGAYYCw/s192/KJ%2BTemplate%2BLogo%2BOctagon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-y1qoM4mjJXY/Xjv-y_xghfI/AAAAAAAAAM8/dRCvgCZIVg80a9f_Tw4n4UX5Ot-96mEawCPcBGAYYCw/s512/KJ%2BTemplate%2BLogo%2BOctagon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
