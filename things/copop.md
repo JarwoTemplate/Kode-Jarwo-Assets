@@ -53,3 +53,4 @@ Bila sudah ketemu, coba tambahkan atribut <code>onclick="Bukakjpopupcontact();"<
 Simpan tema.
 
 <i>This code is created by Ozik Jarwo at 8 August 2020. All rights reserved.</i>
+<style>h1:not(#table-of-content-by-ozik-jarwo) {display:none} .container-lg.px-3.my-5.markdown-body { margin-top: -10px !important; }</style>
