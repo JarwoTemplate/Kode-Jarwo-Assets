@@ -5,5 +5,6 @@ var knil=[
 "tukang-listrik.com","2722220767065175407",
 // GA #2
 "haxerise.xyz","7784785690439060651",
-"kabarpns.com","4758397360279400455"
+"kabarpns.com","4758397360279400455",
+"ijamu.com","5116522222985387892"
 ];
