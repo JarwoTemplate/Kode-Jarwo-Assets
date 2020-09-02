@@ -8,5 +8,7 @@ var knil=[
 // GA #2
 "haxerise.xyz","7784785690439060651",
 "kabarpns.com","4758397360279400455",
-"ijamu.com","5116522222985387892"
+"ijamu.com","5116522222985387892",
+//
+"talmaprintingjkt.blogspot.com","talmaprint.com","6720558180632229876"
 ];
